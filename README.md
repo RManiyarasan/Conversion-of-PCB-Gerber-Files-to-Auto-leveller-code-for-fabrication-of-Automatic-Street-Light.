@@ -1,6 +1,5 @@
 # Conversion-of-PCB-Gerber-Files-to-Auto-leveller-code-for-fabrication-of-Automatic-Street-Light.
-## Exp 9: Conversion of PCB Gerber Files to CNC G-Code and G Code into Auto leveller code for Precision Engraving, Drilling, and Cutting of Automatic Street Light Control Circuits.
-
+## Exp9: Conversion of PCB Gerber Files to CNC G-Code and G Code into Auto leveller code for Precision Engraving, Drilling, and Cutting of Automatic Street Light Control Circuits.
 ## AIM:
 To convert PCB Gerber files of an automatic street light control circuit into CNC-compatible G-Code, and G-Code into Auto leveller Code to ensure precise engraving, drilling, and cutting operations during PCB manufacturing using a CNC machine.
 ## EQUIPMENT REQUIRED:
